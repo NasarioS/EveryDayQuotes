@@ -1,4 +1,35 @@
 #Note, Days start on month 0 not 1, thus Dec is month 11 and Jan is month 0
+0-1.National Hangover Day
+0-2.Run up the Flagpole and See if Anyone Salutes Day
+0-3.Festival of Sleep Day
+0-4.National Spaghetti Day
+0-5.National Bird Day
+0-6.Cuddle Up Day
+0-7.Old Rock Day
+0-8.Bubble Bath Day
+0-9.Play God Day
+0-10.Peculiar People Day
+0-11.Learn Your Name in Morse Code Day
+0-12.National Pharmacist Day
+0-13.National Rubber Duckie Day
+0-14.Dress Up Your Pet Day
+0-15.National Hat Day
+0-16.National Nothing Day
+0-17.Ditch New Years Resolutions Day
+0-18.Winnie the Pooh Day -The Birthday of Winnie's author A.A. Milne
+0-19.National Popcorn Day
+0-20.National Cheese Lover Day
+0-21.Squirrel Appreciation Day
+0-22.National Blonde Brownie Day
+0-23.National Handwriting Day
+0-24.Beer Can Appreciation Day
+0-25.Opposite Day
+0-26.Australia Day
+0-27.Chocolate Cake Day
+0-28.Data Privacy Day
+0-29.National Puzzle Day
+0-30.National Inane Answering Message Day
+0-31.Inspire Your Heart with Art Day
 10-1.National Author's Day
 10-2.Deviled Egg Day
 10-3.Cliché Day
