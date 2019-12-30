@@ -1,0 +1,62 @@
+#Note, Days start on month 0 not 1, thus Dec is month 11 and Jan is month 0
+10-1.National Author's Day
+10-2.Deviled Egg Day
+10-3.Cliché Day
+10-4.National Candy Day
+10-5.Gunpowder Day
+10-6.Saxophone Day
+10-7.Bittersweet Chocolate with Almonds Day
+10-8.Dunce Day
+10-9.Chaos Never Dies Day
+10-10.Forget-Me-Not Day
+10-11.Origami Day
+10-12.Chicken Soup for the Soul Day
+10-13.National Indian Pudding Day
+10-14.Operating Room Nurse Day, Also Happy Brithday SAM!!
+10-15.Clean Your Refrigerator Day
+10-16.National Fast Food Day
+10-17.Take A Hike Day
+10-18.Mickey Mouse Day
+10-19.World Toilet Day
+10-20.Name Your PC Day
+10-21.False Confession Day
+10-22.Go For a Ride Day
+10-23.National Espresso Day
+10-24.Evolution Day
+10-25.National Parfait Day
+10-26.Cake Day
+10-27.National Electric Guitar
+10-28.French Toast Day
+10-29.Square Dance Day
+10-30.National Mousse Day
+11-1.National Pie Day
+11-2.National Mutt Day
+11-3.National Roof Over Your Head Day
+11-4.National Cookie Day
+11-5.International Ninja Day
+11-6.National Microwave Oven Day
+11-7.National Cotton Candy Day
+11-8.National Brownie Day
+11-9.National Pastry Day
+11-10.Human Rights Day
+11-11.National Noodle Ring Day
+11-12.Gingerbread House Day
+11-13.National Cocoa Day
+11-14.National Alabama Day
+11-15.National Cupcake/ Lemon Cupcake Day
+11-16.National Chocolate-covered Anything Day
+11-17.National Maple Syrup Day
+11-18.Answer The Telephone Like Buddy The Elf Day
+11-19.National Oatmeal Muffin Day
+11-20.National Sangria Day
+11-21.Crossword Puzzle Day
+11-22.National Date Nut Bread Day
+11-23.National Pfeffernusse Day
+11-24.National Eggnog Day
+11-25.National Pumpkin Pie Day
+11-26.National Candy Cane Day
+11-27.National Fruitcake Day
+11-28.National Chocolate Candy Day
+11-29.Tick Tock Day
+11-30.Bacon Day
+11-31.National Champagne Day
